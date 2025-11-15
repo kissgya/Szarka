@@ -6,3 +6,8 @@ body {
 h1,h2 {
     color: crimson;
 }
+
+a, a:visited, a:hover, a:active {
+    color: crimson;
+    text-decoration: none;
+}
