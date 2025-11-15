@@ -11,3 +11,13 @@ a, a:visited, a:hover, a:active {
     color: crimson;
     text-decoration: none;
 }
+
+.header-image {
+    display: block;
+    margin: 0 auto;
+}
+
+.header-line {
+    width: 70%;
+    
+}
