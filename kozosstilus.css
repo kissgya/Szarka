@@ -16,6 +16,7 @@ a, a:visited, a:hover, a:active {
     display: block;
     margin: 0 auto;
     border: 1px solid;
+    text-align: center;
 }
 
 .header-line {
@@ -27,3 +28,8 @@ a, a:visited, a:hover, a:active {
     float: right;
     border: 1px solid;
 }
+
+div {
+    text-align: center;
+}
+
