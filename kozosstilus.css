@@ -15,9 +15,15 @@ a, a:visited, a:hover, a:active {
 .header-image {
     display: block;
     margin: 0 auto;
+    border: 1px solid;
 }
 
 .header-line {
     width: 70%;
-    
+
+}
+
+.jobb-kep {
+    float: right;
+    border: 1px solid;
 }
