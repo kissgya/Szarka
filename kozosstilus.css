@@ -3,8 +3,13 @@ body {
     color: darkblue
 }
 
-h1,h2 {
+h1,h2.tipus1 {
     color: crimson;
+}
+
+h1,h2.tipus2 {
+    color: aliceblue;
+    background-color: crimson;
 }
 
 a, a:visited, a:hover, a:active {
@@ -33,3 +38,19 @@ div {
     text-align: center;
 }
 
+table.kozep {
+    width: 500px;
+    margin: 0 auto;
+    border-collapse: separate;
+    border-spacing: 6px;
+    text-align: center;
+}
+
+table.kozep td {
+    padding: 6px;
+    border: none;
+}
+
+table.kozep td.elso {
+    width: 240px;
+}
